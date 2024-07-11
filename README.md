@@ -2,6 +2,8 @@
     <p style="font-style: italic; color: #666; font-size: 14px;">Trabajo Práctico Final Desarrollo Web Python, Django, SQL. Full Stack Python - Comisión 24150, CaC.</p>
 </div>
 
+*nota:* Si la api no responde, se deben esperar alrededor de 50 segundos para que se reactive Render.
+
 # WebTechSoluciones - Backend - Documentación Técnica
 
 ## Estructura del Proyecto
@@ -57,7 +59,7 @@ El proyecto `contact_api` sigue una estructura estándar de Django, con los sigu
 <!-- ![Ejemplo de Imagen](sample.png) -->
 
 ## Deploy
-<!-- [https://webtechsoluciones.netlify.app/](https://webtechsoluciones.netlify.app/) -->
+[https://cac-fsp-backend-tp-webtechsoluciones.onrender.com](https://cac-fsp-backend-tp-webtechsoluciones.onrender.com)
 
 ## Final
 
