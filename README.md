@@ -3,8 +3,7 @@
 </div>
 
 *nota:* Si la api no responde, se debe esperar alrededor de 50 segundos para que se reactive Render. 
-[Front repo](https://github.com/angel-farina/CaC-FSP-TP-WebTechSoluciones)
-[Front en netlify](https://webtechsoluciones.netlify.app/)
+[Front repo](https://github.com/angel-farina/CaC-FSP-TP-WebTechSoluciones) - [Front en netlify](https://webtechsoluciones.netlify.app/)
 
 # WebTechSoluciones - Backend - Documentación Técnica
 
