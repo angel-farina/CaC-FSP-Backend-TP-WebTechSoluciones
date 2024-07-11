@@ -2,8 +2,8 @@
     <p style="font-style: italic; color: #666; font-size: 14px;">Trabajo Práctico Final Desarrollo Web Python, Django, SQL. Full Stack Python - Comisión 24150, CaC.</p>
 </div>
 
-*nota:* Si la api no responde, se debe esperar alrededor de 50 segundos para que se reactive Render. 
-[Front repo](https://github.com/angel-farina/CaC-FSP-TP-WebTechSoluciones) - [Front en netlify](https://webtechsoluciones.netlify.app/)
+*nota:* Si la api no responde, se debe esperar alrededor de 50 segundos para que se reactive Render.
+*front:* [repo](https://github.com/angel-farina/CaC-FSP-TP-WebTechSoluciones) - [netlify](https://webtechsoluciones.netlify.app/)
 
 # WebTechSoluciones - Backend - Documentación Técnica
 
