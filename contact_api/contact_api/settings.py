@@ -28,6 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = [#'127.0.0.1',
                  #'localhost',
                  'webtechsoluciones.netlify.app',
+                 'cac-fsp-backend-tp-webtechsoluciones.onrender.com',
                  ]
 
 # Application definition
